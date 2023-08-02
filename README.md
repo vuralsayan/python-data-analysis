@@ -14,7 +14,6 @@ Kullanılacak dataset: https://flavorsofcacao.com/chocolate_database.html
 "Rating" - 1.0-1.9 Unpleasant, 2.0-2.9 Disappointing, 3.0-3.49 Recommended, 3.5-3.9 Highly Recommended, 4.0-5.0 Oustanding 
  
  ## Sorular
- 
 1.	Ülkelerin (şirketin lokasyonuna göre) sahip olduğu şirket sayılarını bulunuz. 
 2.	Ülkelerin (şirketin lokasyonuna göre) sahip olduğu bar sayılarını bulunuz. 
 3.	Ülke kökenine göre ortalama puanı hesaplayınız? 
