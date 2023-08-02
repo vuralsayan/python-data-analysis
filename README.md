@@ -1,6 +1,6 @@
 # python-data-analysis
-Kullanılacak dataset: https://flavorsofcacao.com/chocolate_database.html 
- 
+Kullanılacak dataset: https://flavorsofcacao.com/chocolate_database.html <br>
+ Datasetin websitesinde olan tabloyu Inspect edip tablonun outherHTML'ini kopyalayıp ods dosyasına dönüştürüp işlemlerime öyle başladım.
 
 "REF" - id number of the review <br>
 "Company (Manufacturer)" - Name of the bar manufacturer <br>
