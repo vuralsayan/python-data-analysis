@@ -23,5 +23,6 @@ Kullanılacak dataset: https://flavorsofcacao.com/chocolate_database.html
 6.	Kakao çekirdeğinin kökeni kalitenin bir göstergesi midir? 
 7.	Kakao çekirdekleri genellikle nerelerden gelmektedir? 
 8.	Araştırmanız bazı tüketicilerin lesitin içeren barlardan kaçınmak istediğini gösteriyor. Lesitin içeren ve içermeyen barların ortalama puanını karşılaştırın (İçerikte "L" olanlar). 
-9.	Ortalama reytingi en yüksek ve en düşük çekirdek orijini olan ülkeler hangileridir? 10. Bulgularınızı özetleyin. 
+9.	Ortalama reytingi en yüksek ve en düşük çekirdek orijini olan ülkeler hangileridir? 
+10. Bulgularınızı özetleyin. 
 
